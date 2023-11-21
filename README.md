@@ -83,7 +83,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
    Step 6 - Apply secrets file in the terminal by following command
 
         kubectl apply -f secret.yaml
-   <img width="1000" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/apply%20secrets.png>      
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/apply%20secrets.png>      
          
 
 
