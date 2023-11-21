@@ -122,7 +122,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
           assword - pass
 
             As this was mentioned in the ofiicial documentation of the mongo-express in dockerhub
-   <img width="1100" height="500" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/login.png>     
+   <img width="900" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/login.png>     
 
    Step 13 - Now we can see our application is up and runing in the kubernetes Cluster
 
