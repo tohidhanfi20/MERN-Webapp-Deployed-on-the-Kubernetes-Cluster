@@ -32,4 +32,18 @@ Install minikube
 
      Link for Every operationg system - https://minikube.sigs.k8s.io/docs/start/
 
+Install DockerDesktop
+
+ Install docker Desktop 
+
+   Windows - Install Docker Desktop on Windows | Docker Docs
+
+   Mac - Install Docker Desktop on Mac | Docker Docs
+
+ 2. Sign up to Dockerhub
+
+      https://hub.docker.com/signup/
+
+         
+
     
