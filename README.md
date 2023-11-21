@@ -20,41 +20,41 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
 1. Install Kubernetes (K8's)
 
- Enter below commands to install kubernetes to your local machine.
+     Enter below commands to install kubernetes to your local machine.
 
-    For windows - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
+        For windows - https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/
 
-    For Mac-os - https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
+        For Mac-os - https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 
 2. Install minikube
 
- Enter below commands to install Minikube to your local machine.
+     Enter below commands to install Minikube to your local machine.
 
-     Link for Every operationg system - https://minikube.sigs.k8s.io/docs/start/
+        Link for Every operationg system - https://minikube.sigs.k8s.io/docs/start/
 
 3. Install DockerDesktop
 
-   Windows - Install Docker Desktop on Windows | Docker Docs
+        Windows - Install Docker Desktop on Windows | Docker Docs
 
-   Mac - Install Docker Desktop on Mac | Docker Docs
+        Mac - Install Docker Desktop on Mac | Docker Docs
 
  4. Sign up to Dockerhub
 
-      https://hub.docker.com/signup/
-
+        https://hub.docker.com/signup/
+ 
 
  5. Refer sample Deployement file from Official Kubernete's documentation
 
-     https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+       https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
 6. Refer sample ConfigMap file from Official Kubernete's documentation
 
-     https://kubernetes.io/docs/concepts/configuration/configmap/
+       https://kubernetes.io/docs/concepts/configuration/configmap/
 
  7. Refer sample Secrets file from Official Kubernete's documentation
 
-      https://kubernetes.io/docs/concepts/configuration/secret/     
-
+       https://kubernetes.io/docs/concepts/configuration/secret/     
+ 
          
 
     
