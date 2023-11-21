@@ -44,6 +44,19 @@ Install DockerDesktop
 
       https://hub.docker.com/signup/
 
+
+ Refer sample Deployement file from Official Kubernete's documentation
+
+     https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
+
+Refer sample ConfigMap file from Official Kubernete's documentation
+
+     https://kubernetes.io/docs/concepts/configuration/configmap/
+
+ Refer sample Secrets file from Official Kubernete's documentation
+
+      https://kubernetes.io/docs/concepts/configuration/secret/     
+
          
 
     
