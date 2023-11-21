@@ -73,7 +73,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
    Step 4 - Start Minikube using minikube start
 
-   <img width="400" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/minikube%20start.png>
+   <img width="800" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/minikube%20start.png>
 
 
      
