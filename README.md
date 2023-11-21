@@ -79,6 +79,11 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
         kubectl get pods
    <img width="800" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/get%20pods.png>
+
+   Step 6 - Apply secrets file in the terminal by following command
+
+        kubectl apply -f secret.yaml
+   <img width="800" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/apply%20secrets.png>      
          
 
 
