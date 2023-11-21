@@ -83,10 +83,47 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
    Step 6 - Apply secrets file in the terminal by following command
 
         kubectl apply -f secret.yaml
-   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/apply%20secrets.png>      
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/apply%20secrets.png>   
+
+   Step 7 - Apply Config Map file in the terminal by following command
+
+        kubectl apply -f mongo-confiq.yaml
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/mongoconfig.png>  
+
+   Step 8 - Apply Mongo app file in the terminal by following command
+
+        kubectl apply -f mongo-app.yaml
          
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/mongoapp.png>
 
+   Step 9 - Apply Mongo webapp file in the terminal by following command
 
-     
+        kubectl apply -f web-app.yaml
 
-    
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/webapp.png> 
+
+   Step 10 - To see details of the node which you created in the terminal by following command
+
+        kubectl get node -o wide
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/node-o-wide.png>
+
+   Step 11 - You have to expose your service to external world using this command in terminal
+
+        minikube service webapp-service
+        
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/extrnal%20wrld.png> 
+
+   Step 12 -  Now you can see a login pop up on the screen
+
+        Use This Credentials
+
+         Username - admin
+
+          assword - pass
+
+            As this was mentioned in the ofiicial documentation of the mongo-express in dockerhub
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/login.png>     
+
+   Step 13 - Now we can see our application is up and runing in the kubernetes Cluster
+
+   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/webapp%20(2).png>  
