@@ -69,7 +69,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
    Step 3 - Open Terminal in VS Code
 
-   <img width="400" height="400" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/Screenshot%202023-11-17%20165956.png>
+   <img width="200" height="200" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/Screenshot%202023-11-17%20165956.png>
 
      
 
