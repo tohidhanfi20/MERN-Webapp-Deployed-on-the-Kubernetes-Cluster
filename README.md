@@ -100,7 +100,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
         kubectl apply -f web-app.yaml
 
-   <img width="1100" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/webapp.png> 
+   <img width="1400" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/webapp.png> 
 
    Step 10 - To see details of the node which you created in the terminal by following command
 
