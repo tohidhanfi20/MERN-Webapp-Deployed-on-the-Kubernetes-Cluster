@@ -40,7 +40,7 @@ Install DockerDesktop
 
    Mac - Install Docker Desktop on Mac | Docker Docs
 
- 2. Sign up to Dockerhub
+ Sign up to Dockerhub
 
       https://hub.docker.com/signup/
 
