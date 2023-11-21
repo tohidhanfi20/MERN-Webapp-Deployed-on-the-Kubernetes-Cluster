@@ -56,9 +56,11 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
        https://kubernetes.io/docs/concepts/configuration/secret/     
        
  
- # Interactive Steps
+ # Prerequisites Steps
 
  1. Step 1: Open VS Code and open folder having your all files
+
+    <img 
 
      
 
