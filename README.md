@@ -105,7 +105,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
    Step 10 - To see details of the node which you created in the terminal by following command
 
         kubectl get node -o wide
-   <img width="1200" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/node-o-wide.png>
+   <img width="1500" height="300" src=https://github.com/tohidhanfi20/MERN-Webapp-Deployed-on-the-Kubernetes-Cluster/blob/main/Screenshots/node-o-wide.png>
 
    Step 11 - You have to expose your service to external world using this command in terminal
 
