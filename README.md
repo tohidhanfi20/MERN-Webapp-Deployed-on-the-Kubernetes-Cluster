@@ -18,7 +18,7 @@ Kubernetes (K8's) : Kubernetes, often abbreviated as K8s, is an open-source cont
 
 # Prerequisites Steps
 
-Install Kubernetes (K8's)
+1. Install Kubernetes (K8's)
 
  Enter below commands to install kubernetes to your local machine.
 
@@ -26,34 +26,32 @@ Install Kubernetes (K8's)
 
     For Mac-os - https://kubernetes.io/docs/tasks/tools/install-kubectl-macos/
 
-Install minikube
+2. Install minikube
 
  Enter below commands to install Minikube to your local machine.
 
      Link for Every operationg system - https://minikube.sigs.k8s.io/docs/start/
 
-Install DockerDesktop
-
- Install docker Desktop 
+3. Install DockerDesktop
 
    Windows - Install Docker Desktop on Windows | Docker Docs
 
    Mac - Install Docker Desktop on Mac | Docker Docs
 
- Sign up to Dockerhub
+ 4. Sign up to Dockerhub
 
       https://hub.docker.com/signup/
 
 
- Refer sample Deployement file from Official Kubernete's documentation
+ 5. Refer sample Deployement file from Official Kubernete's documentation
 
      https://kubernetes.io/docs/concepts/workloads/controllers/deployment/
 
-Refer sample ConfigMap file from Official Kubernete's documentation
+6. Refer sample ConfigMap file from Official Kubernete's documentation
 
      https://kubernetes.io/docs/concepts/configuration/configmap/
 
- Refer sample Secrets file from Official Kubernete's documentation
+ 7. Refer sample Secrets file from Official Kubernete's documentation
 
       https://kubernetes.io/docs/concepts/configuration/secret/     
 
